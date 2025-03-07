@@ -5,6 +5,7 @@
 
 ###  Tecnologías que estoy aprendiendo
 - Desarrollo Web: **HTML**, **CSS**, **React**
+- Desarrollo Movil: **Flutter**
 - Backend: **Flask**, **Node.js**
 - Contenedores: **Docker**
 
