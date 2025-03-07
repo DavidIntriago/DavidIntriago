@@ -1,16 +1,24 @@
-## Hi there 👋
+## ¡Holaaa, soy David Intriago! 👋
 
-<!--
-**DavidIntriago/DavidIntriago** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- Estudiante de 8vo Ciclo de la carrera de Computación en la Universidad Nacional de Loja  
+- Interesado por el desarrollo de software y por ofrecer soluciones tecnológicas para la gestión de procesos.
 
-Here are some ideas to get you started:
+### 🚀 Tecnologías que estoy aprendiendo
+- Desarrollo Web: **HTML**, **CSS**, **React**
+- Backend: **Flask**, **Node.js**
+- Contenedores: **Docker**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Proyectos actuales
+- 🌿 Catálogo móvil/web para viveros
+- 🤖 Chatbot con Autómatas para asistencia virtual
+- 🦷 Administración de Citas Odontológicas
+
+---
+
+ _Hay que intentar para ganar XP, sino al menos quedan las anécdotas._ 
+
+
+---
+
+¡Conéctate conmigo!
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/DavidIntriago)
