@@ -19,6 +19,3 @@
 
 
 ---
-
-¡Conéctate conmigo!
-[![GitHub](https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=github)](https://github.com/DavidIntriago)
