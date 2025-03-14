@@ -1,9 +1,6 @@
 ## Holaaa 
 21/12/2014
 
-- Estudiante de 8vo Ciclo de la carrera de Computación en la Universidad Nacional de Loja  
-- Interesado por el desarrollo de software y por ofrecer soluciones tecnológicas para la gestión de procesos.
-
 ###  Tecnologías que estoy aprendiendo
 - Desarrollo Web: **HTML**, **CSS**, **React**
 - Desarrollo Movil: **Flutter**
